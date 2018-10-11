@@ -1,0 +1,2 @@
+consumer_key = 'tEVil0UJSNUc2sMID58GOcpmA5JOlMKC8oWl9xyl'
+consumer_secret = 'f9fX6Rcs67Ka7bz64g7zVSV1EaWH739M6d5ZRwnA'
